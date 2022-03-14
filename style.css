@@ -96,3 +96,8 @@ p{
 a{
     text-decoration: none;
 }
+
+/*fake style*/
+.fake{
+    color:white;
+}
